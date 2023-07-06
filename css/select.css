@@ -1,0 +1,16 @@
+body{
+    width: 1200px;
+}
+.container jumbotron{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+}
+p{
+    margin-left: 300px;
+}
+h2{
+    margin-left: 500px;;
+}
